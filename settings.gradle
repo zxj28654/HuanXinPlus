@@ -1,0 +1,3 @@
+rootProject.name='HuanXinPlus'
+include ':app', ':easeui'
+include ':baiduditu'
